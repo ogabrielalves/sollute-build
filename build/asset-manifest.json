@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bafea1f5.css",
-    "main.js": "/static/js/main.aabca256.js",
+    "main.js": "/static/js/main.61e22b51.js",
     "static/media/Manage money-rafiki 1.svg": "/static/media/Manage money-rafiki 1.66cb4a3101f7ff3d75e3b7eb74cce81a.svg",
     "static/media/img-login.svg": "/static/media/img-login.7bf45d1c292834bc1c0dadd45bd91534.svg",
     "static/media/Online report-amico.svg": "/static/media/Online report-amico.ca0d304f98916ff584d649c422ba7a90.svg",
@@ -11,10 +11,10 @@
     "static/media/Logo2-modelo.svg": "/static/media/Logo2-modelo.dd3ecea807c54d24a6afc466037eab9e.svg",
     "index.html": "/index.html",
     "main.bafea1f5.css.map": "/static/css/main.bafea1f5.css.map",
-    "main.aabca256.js.map": "/static/js/main.aabca256.js.map"
+    "main.61e22b51.js.map": "/static/js/main.61e22b51.js.map"
   },
   "entrypoints": [
     "static/css/main.bafea1f5.css",
-    "static/js/main.aabca256.js"
+    "static/js/main.61e22b51.js"
   ]
 }
